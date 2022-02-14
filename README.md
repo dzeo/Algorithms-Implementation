@@ -58,7 +58,10 @@ There are several sage notebooks herein, each named after the algorithm it imple
 - Definitions and Theorems
 
 - Pseudo Code
+
 ## Results<a name="results"></a>
 
 The main results lies in the implementation of these algorithms
+
+## Licensing, Authors, and Acknowledgements <a name = "licensing"></a>
 
