@@ -23,10 +23,10 @@ This project was embarked upon to:
 
 There are several sage notebooks herein, each named after the algorithm it implements
 
-1. Bird's_Algorithm.ipynb
-2. Muller's_Method.ipynb
-3. Polynomial factorization Distinct-degree factorization.ipynb
-4. VAS.ipynb
+1. Bird's_Algorithm.ipynb  (completed)
+2. Muller's_Method.ipynb   (In progress)
+3. Polynomial factorization Distinct-degree factorization.ipynb    (completed)
+4. VAS.ipynb   (In progress)
 
 ## Results<a name="results"></a>
 
