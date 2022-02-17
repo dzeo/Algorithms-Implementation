@@ -26,6 +26,7 @@ This project was embarked upon to:
 ## File Descriptions <a name="files"></a>
 
 There are several sage notebooks herein, each named after the algorithm it implements
+NB: this repo is still in progress
 
 ### 1. Bird's_Algorithm  (completed) <a name = "Bird"></a>
 
